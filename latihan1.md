@@ -1,7 +1,7 @@
 # tugasalgoritma
 
-alat= gelas, sendok teh
-bahan= gula, kopi, air panas
+#alat= gelas, sendok teh
+#bahan= gula, kopi, air panas
 
 1. masukkan kopi ke dalam gelas sebanyak 1-2 sendok teh
 2. masukkan gula 2-3 sendok teh
