@@ -1,4 +1,4 @@
-#tugasalgoritma
+##tugasalgoritma
 
 #alat= gelas, sendok teh
 
